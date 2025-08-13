@@ -1,0 +1,27 @@
+{
+  "name": "neo-design-patterns-hw-07",
+  "version": "1.0.0",
+  "description": "### Опис завдання",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "build": "tsc",
+    "clean": "rimraf dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KL-ML/neo-design-patterns-hw-07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KL-ML/neo-design-patterns-hw-07/issues"
+  },
+  "homepage": "https://github.com/KL-ML/neo-design-patterns-hw-07#readme",
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
